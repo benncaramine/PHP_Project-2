@@ -1,0 +1,11 @@
+*{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding: auto;
+    margin: auto;
+    background: rgb(4, 5, 38);
+}
+
+
+div{
+    background-color: linear-gradient(rgb(4, 5, 38),rgb(34, 37, 124));
+}
